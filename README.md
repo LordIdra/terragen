@@ -1,2 +1,2 @@
 # Terragen
-OpenGL round 2
+A random small project I created while learning OpenGL.
